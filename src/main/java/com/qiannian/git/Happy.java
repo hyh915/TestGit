@@ -1,5 +1,9 @@
 package com.qiannian.git;
 
 public class Happy {
+	
+	public static void main(String[] args) {
+		System.out.println("¿ì½İ¼üÌá½»£¡");
+	}
 
 }
